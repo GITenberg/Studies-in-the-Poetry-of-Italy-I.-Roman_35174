@@ -1,0 +1,26 @@
+_repo: Studies-in-the-Poetry-of-Italy-I.-Roman_35174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Frank Justus
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '37512'
+    url: http://www.gutenberg.org/2009/agents/37512
+description: ''
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin poetry -- History and criticism'
+- !lcc 'PA'
+title: Studies in the Poetry of Italy, Part I. Roman
+url: http://www.gutenberg.org/ebooks/35174
